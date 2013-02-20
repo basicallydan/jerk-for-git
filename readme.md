@@ -19,8 +19,8 @@ All other commands are the same for now.
 
 To commit to the branch `mother` under the `your` remote:
 
-`jerk off -m "Edited README.md"`
-`jerk to your mother`
+1. `jerk off -m "Edited README.md"`
+2. `jerk to your mother`
 
 ## Install
 
